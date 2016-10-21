@@ -260,8 +260,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Devubha Manek (W6E759D8LP)";
 				DEVELOPMENT_TEAM = CJESF9R9MD;
 				INFOPLIST_FILE = PopUpExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.test.PopUpExample3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ManekTech.MTPopup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5b743137-817a-461e-b069-04f3f1e83204";
 				PROVISIONING_PROFILE_SPECIFIER = WildcardTest;
@@ -278,8 +279,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Devubha Manek (W6E759D8LP)";
 				DEVELOPMENT_TEAM = CJESF9R9MD;
 				INFOPLIST_FILE = PopUpExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.test.PopUpExample3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ManekTech.MTPopup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5b743137-817a-461e-b069-04f3f1e83204";
 				PROVISIONING_PROFILE_SPECIFIER = WildcardTest;
